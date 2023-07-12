@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day3\ConsoleAppDataTypes\ConsoleAppDataTypes\bin\Debug\ConsoleAppDataTypes.exe.config
+D:\Mphasis\Live Session\Day3\ConsoleAppDataTypes\ConsoleAppDataTypes\bin\Debug\ConsoleAppDataTypes.exe
+D:\Mphasis\Live Session\Day3\ConsoleAppDataTypes\ConsoleAppDataTypes\bin\Debug\ConsoleAppDataTypes.pdb
+D:\Mphasis\Live Session\Day3\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\ConsoleAppDataTypes.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day3\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\ConsoleAppDataTypes.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day3\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\ConsoleAppDataTypes.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day3\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\ConsoleAppDataTypes.exe
+D:\Mphasis\Live Session\Day3\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\ConsoleAppDataTypes.pdb
